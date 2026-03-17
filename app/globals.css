@@ -395,7 +395,7 @@ html, body {
 .modal-panel.md  { max-width: 560px; }
 .modal-panel.lg  { max-width: 720px; }
 .modal-panel.xl  { max-width: 960px; }
-.modal-panel.2xl { max-width: 1200px; }
+.modal-panel.\32xl { max-width: 1200px; }
 
 .modal-header {
   padding: 20px 24px 16px;
